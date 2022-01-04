@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I <code>am Sai Pavan</code> Puligadda version 1.1.0
+          I <code>am Sai Pavan</code> Puligadda version 1.1.2
         </p>
         <a
           className="App-link"
